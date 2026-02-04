@@ -349,7 +349,7 @@ ssh -i mykey.pem ec2-user@<PUBLIC_IP>
 
 ---
 
-## 13) Quick Teaching Flow (How to Explain in Class)
+## 13) Quick  Flow 
 
 1. EC2 building blocks (AMI, instance type, EBS, ENI, SG)
 2. Tags (why mandatory)
